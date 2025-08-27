@@ -1,17 +1,19 @@
 # Hi there 👋, I'm Mahesh  
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&lines=Aspiring+Software+Developer;Learning+Python+%26+Java;DSA+%26+Problem+Solving;Building+Web+Apps)](https://git.io/typing-svg)
 
 ---
 
 ## 💫 About Me
-🎓 I'm a B.Tech CSE-AI Student  
+🎓 I'm a B.Tech CSE Student  
 💻 Passionate about coding & problem-solving  
 🔭 Currently working on **Web Apps & ML projects**  
-🌱 Exploring **DSA, Problem Solving and Cloud**  
+🌱 Exploring **DSA, Data Science, and Cloud**  
 👯 Open to collaborations in **Full-stack Development & ML**  
 🎯 2025 Goal: Crack **Placements & Strengthen DSA**  
-
+⚡ Fun fact: I can spend hours debugging without giving up! 😆  
 
 ---
 
@@ -45,7 +47,6 @@
 </p>
 
 ---
-
 
 
 ## 🌐 Connect with Me
