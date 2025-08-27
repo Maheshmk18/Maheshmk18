@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mahesh  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Maheshmk&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Maheshmk&label=Profile%20Views&color=0e75b6&style=flat167)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&lines=Aspiring+Software+Developer;Learning+Python+%26+Java;DSA+%26+Problem+Solving;Building+Web+Apps)](https://git.io/typing-svg)
 
