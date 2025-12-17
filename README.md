@@ -1,134 +1,149 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== 3D HERO HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=220&section=header&text=Mahesh&fontSize=52&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mahesh&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Developer&descAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;B.Tech+Computer+Science+Student;GenAI+%7C+Machine+Learning+%7C+Backend;Building+Production-Grade+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=AI+%26+Software+Developer;B.Tech+Computer+Science+Student;GenAI+%7C+Machine+Learning+%7C+Backend;Building+Production-Ready+AI+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I am a **Computer Science Engineering student** passionate about building **intelligent, scalable, and production-ready applications**.  
-My focus lies at the intersection of **Software Engineering, Machine Learning, and Generative AI**, where I design systems that solve real-world problems using clean architecture and modern AI techniques.
+<p align="center">
+I am a <b>Computer Science Engineering student</b> focused on building  
+<b>intelligent, scalable, and real-world software systems</b>.  
+My expertise lies in <b>AI, Machine Learning, Generative AI, and Backend Development</b>,  
+with a strong emphasis on clean architecture and problem-solving.
+</p>
 
 ---
 
 ## 💫 About Me
 
-🎓 B.Tech CSE Student  
-💻 Strong foundation in **DSA, Backend Development & APIs**  
-🤖 Specialized in **AI/ML, GenAI, and intelligent systems**  
-🔭 Building **enterprise-style AI web applications**  
-🌱 Learning **LLM systems, RAG pipelines, Cloud fundamentals**  
-🎯 **2025 Goal:** Secure a strong **Software / AI Engineer role**  
-⚡ Fun fact: I enjoy debugging complex issues more than writing new code 😄  
+<p align="center">
+🎓 B.Tech CSE Student <br/>
+💻 Strong in DSA, Backend & APIs <br/>
+🤖 Focused on AI / ML / GenAI systems <br/>
+🔭 Building enterprise-style AI applications <br/>
+🌱 Exploring RAG, LLM pipelines & Cloud basics <br/>
+🎯 2025 Goal: Strong Software / AI Engineer role <br/>
+⚡ Debugging feels like solving puzzles 🧩
+</p>
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🚀 Tech Stack & Skills (3D-Style Centered)
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
+  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
 </p>
 
 ---
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
 <p align="center">
-  ✨ Component-based UI • Responsive Design • API Integration
+✨ Responsive UI • Component Architecture • API Integration
 </p>
 
 ---
 
 ### 🧠 Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
 </p>
 
-**Expertise:**  
-- RESTful API design  
-- Authentication & role-based access  
-- AI model integration into backend services  
-- Scalable request handling  
+<p align="center">
+REST APIs • Authentication • Role-based Access • AI Integration
+</p>
 
 ---
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
-**Concepts:** Schema design • Query optimization • Data integrity
+<p align="center">
+Schema Design • Query Optimization • Data Integrity
+</p>
 
 ---
 
-## 🤖 AI / Machine Learning (Advanced)
+## 🤖 AI / Machine Learning (STRONG + MODERN)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit,keras,tensorflow,torch,opencv,transformers" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit,keras,tensorflow,torch,opencv,transformers&theme=dark" />
 </p>
 
-### 🧠 Core AI Expertise
-- **Machine Learning:** Classification, Regression, Clustering, Ensemble Models  
-- **Deep Learning:** CNNs, RNNs, DNNs, Transfer Learning  
-- **NLP:** Text classification, embeddings, transformers, tokenization  
-- **Computer Vision:** Image classification, feature extraction, OpenCV pipelines  
-- **Generative AI:** LLMs, prompt engineering, RAG architectures  
-- **Model Lifecycle:** Data preprocessing → Training → Evaluation → Inference  
-- **Deployment:** AI models served via APIs (FastAPI)
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<b>Machine Learning</b> • Classification • Regression • Clustering • Ensembles <br/>
+<b>Deep Learning</b> • CNN • RNN • DNN • Transfer Learning <br/>
+<b>NLP</b> • Tokenization • Embeddings • Transformers • Text Classification <br/>
+<b>Computer Vision</b> • Image Processing • Feature Extraction • OpenCV <br/>
+<b>Generative AI</b> • LLMs • Prompt Engineering • RAG Architectures <br/>
+<b>Deployment</b> • Model APIs • FastAPI • Inference Pipelines
+</p>
+
+<!-- 3D FLOW ANIMATION -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ### 🧩 Data Structures & Problem Solving
-- Arrays, Strings, Linked Lists  
-- Stacks, Queues, Hashing  
-- Trees & Graph basics  
-- Recursion & Dynamic Programming  
-- Time & Space Complexity  
+<p align="center">
+Arrays • Strings • Linked Lists • Stacks • Queues <br/>
+Trees • Graphs • Recursion • Dynamic Programming <br/>
+Time & Space Complexity Analysis
+</p>
 
 ---
 
 ### 🔧 Version Control
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
 ---
 
 ### 🛠️ Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode,docker&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42"/>
 </p>
 
 ---
 
 ## 📌 What I Build
-🚀 AI-powered enterprise applications  
-🧠 ML & GenAI systems with real datasets  
-🌐 Full-stack projects (Frontend + Backend + AI)  
-⚙️ Clean, scalable, real-world solutions  
+<p align="center">
+🚀 AI-Powered Enterprise Applications <br/>
+🧠 ML & GenAI Systems (Real Datasets) <br/>
+🌐 Full-Stack Systems (Frontend + Backend + AI) <br/>
+⚙️ Clean, Scalable, Production-Ready Solutions
+</p>
 
 ---
 
 ## 🌱 Currently Exploring
-- Retrieval-Augmented Generation (RAG)  
-- Advanced LLM pipelines  
-- Model optimization & inference performance  
-- Scalable backend architectures  
+<p align="center">
+Retrieval-Augmented Generation (RAG) <br/>
+Advanced LLM Pipelines <br/>
+Model Optimization & Inference <br/>
+Scalable Backend Architecture
+</p>
 
 ---
 
@@ -142,8 +157,10 @@ My focus lies at the intersection of **Software Engineering, Machine Learning, a
 </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6A5ACD&height=120&section=footer" />
+</p>
 
 <p align="center">
-  ⭐ <b>Always learning. Always building. Always improving.</b>
+⭐ <b>Always Learning • Always Building • Always Improving</b>
 </p>
