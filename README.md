@@ -1,139 +1,139 @@
-# 👋 Hi, I'm Mahesh  
-### 🚀 Aspiring AI Engineer | Software Developer | Problem Solver
+<!-- ===================== HERO SECTION ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=220&section=header&text=Mahesh&fontSize=52&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&lines=AI+%26+Software+Developer;B.Tech+Computer+Science+Student;AI%2FML+%7C+GenAI+%7C+Full+Stack;DSA+%26+System+Thinking;Building+Production-Ready+AI+Systems)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;B.Tech+Computer+Science+Student;GenAI+%7C+Machine+Learning+%7C+Backend;Building+Production-Grade+AI+Systems" />
+</p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I am a **B.Tech Computer Science Engineering student** with a strong interest in **AI, Machine Learning, and Software Engineering**.  
-I enjoy building **real-world, scalable applications** that combine clean backend logic, intuitive user interfaces, and intelligent AI models.
-
-I focus on:
-- Writing **clean, maintainable code**
-- Turning **theory into working systems**
-- Building **end-to-end projects**, not just demos
+I am a **Computer Science Engineering student** passionate about building **intelligent, scalable, and production-ready applications**.  
+My focus lies at the intersection of **Software Engineering, Machine Learning, and Generative AI**, where I design systems that solve real-world problems using clean architecture and modern AI techniques.
 
 ---
 
 ## 💫 About Me
 
 🎓 B.Tech CSE Student  
-💻 Strong foundation in **Programming, DSA, and Backend Development**  
-🤖 Actively working on **AI/ML, GenAI, and intelligent systems**  
-🔭 Building **AI-powered web applications & enterprise-style projects**  
-🌱 Learning **Advanced DSA, Cloud basics, APIs, and scalable architectures**  
-👯 Open to collaboration on **AI, ML, Backend, and Full-Stack projects**  
+💻 Strong foundation in **DSA, Backend Development & APIs**  
+🤖 Specialized in **AI/ML, GenAI, and intelligent systems**  
+🔭 Building **enterprise-style AI web applications**  
+🌱 Learning **LLM systems, RAG pipelines, Cloud fundamentals**  
 🎯 **2025 Goal:** Secure a strong **Software / AI Engineer role**  
-⚡ Fun fact: Debugging complex bugs feels like solving puzzles to me 😄  
+⚡ Fun fact: I enjoy debugging complex issues more than writing new code 😄  
 
 ---
 
 ## 🚀 Tech Stack & Skills
 
 ### 💻 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
 ---
 
 ### 🌐 Frontend Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-**Concepts:** Responsive UI, Component-based architecture, API integration
+<p align="center">
+  ✨ Component-based UI • Responsive Design • API Integration
+</p>
 
 ---
 
 ### 🧠 Backend & APIs
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
-**Concepts:**  
-- REST APIs  
-- Authentication & Authorization  
-- Backend business logic  
-- AI model integration  
+**Expertise:**  
+- RESTful API design  
+- Authentication & role-based access  
+- AI model integration into backend services  
+- Scalable request handling  
 
 ---
 
 ### 🗄️ Databases
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-**Concepts:**  
-- SQL queries & optimization  
-- Schema design  
-- Data persistence for applications  
+**Concepts:** Schema design • Query optimization • Data integrity
 
 ---
 
-### 🤖 AI / Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit,keras,tensorflow,torch,opencv,transformers,matplotlib,plotly" />
+## 🤖 AI / Machine Learning (Advanced)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit,keras,tensorflow,torch,opencv,transformers" />
 </p>
 
-**Core Expertise:**  
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- Transformers & Large Language Models (LLMs)  
-- Feature Engineering & Data Preprocessing  
-- Model Training, Evaluation & Inference  
-- AI-powered APIs & Pipelines  
+### 🧠 Core AI Expertise
+- **Machine Learning:** Classification, Regression, Clustering, Ensemble Models  
+- **Deep Learning:** CNNs, RNNs, DNNs, Transfer Learning  
+- **NLP:** Text classification, embeddings, transformers, tokenization  
+- **Computer Vision:** Image classification, feature extraction, OpenCV pipelines  
+- **Generative AI:** LLMs, prompt engineering, RAG architectures  
+- **Model Lifecycle:** Data preprocessing → Training → Evaluation → Inference  
+- **Deployment:** AI models served via APIs (FastAPI)
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-### 🧩 Problem Solving & DSA
+### 🧩 Data Structures & Problem Solving
 - Arrays, Strings, Linked Lists  
 - Stacks, Queues, Hashing  
 - Trees & Graph basics  
 - Recursion & Dynamic Programming  
-- Time & Space Complexity analysis  
+- Time & Space Complexity  
 
 ---
 
 ### 🔧 Version Control
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
 
 ### 🛠️ Tools & IDEs
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📌 What I Like Building
-- AI-powered enterprise applications  
-- ML models with real-world datasets  
-- Backend-heavy projects with clean APIs  
-- End-to-end systems (Frontend + Backend + AI)  
-- Projects that **solve actual problems**, not just tutorials  
+## 📌 What I Build
+🚀 AI-powered enterprise applications  
+🧠 ML & GenAI systems with real datasets  
+🌐 Full-stack projects (Frontend + Backend + AI)  
+⚙️ Clean, scalable, real-world solutions  
 
 ---
 
 ## 🌱 Currently Exploring
-- Generative AI & LLM-based systems  
 - Retrieval-Augmented Generation (RAG)  
-- AI model deployment & optimization  
-- Scalable backend design  
-- Cloud fundamentals  
+- Advanced LLM pipelines  
+- Model optimization & inference performance  
+- Scalable backend architectures  
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
@@ -144,5 +144,6 @@ I focus on:
 
 ---
 
-⭐ **Always curious, always learning, always building.**  
-🚀 *Open to internships, entry-level roles, and exciting collaborations.*
+<p align="center">
+  ⭐ <b>Always learning. Always building. Always improving.</b>
+</p>
