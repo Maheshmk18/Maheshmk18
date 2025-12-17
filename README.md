@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Mahesh
-### 🚀 Aspiring AI Engineer | Software Developer | Problem Solver
+<!-- ===================== 3D ANIMATED HEADER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mahesh&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Developer&descAlignY=70" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&lines=AI+%26+Software+Developer;B.Tech+Computer+Science+Student;Machine+Learning+%7C+GenAI+%7C+Backend;Building+Production-Ready+AI+Systems)
 
@@ -9,8 +9,8 @@
 
 I am a **B.Tech Computer Science Engineering student** with a strong interest in  
 **Artificial Intelligence, Machine Learning, and Software Development**.  
-I enjoy building **real-world, end-to-end applications** that combine clean backend
-design, scalable APIs, and intelligent AI systems.
+I enjoy building **real-world, scalable, end-to-end applications** combining
+backend engineering, APIs, and intelligent AI systems.
 
 ---
 
@@ -25,6 +25,9 @@ design, scalable APIs, and intelligent AI systems.
 - ⚡ Debugging feels like solving puzzles 🧩
 
 ---
+
+<!-- ===================== 3D DIVIDER ===================== -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## 🚀 Tech Stack & Skills
 
@@ -61,6 +64,9 @@ design, scalable APIs, and intelligent AI systems.
 
 ---
 
+<!-- ===================== AI 3D ANIMATION ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=90&section=header&text=AI%20%2F%20Machine%20Learning&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+
 ## 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit,keras,tensorflow,torch,opencv,transformers&theme=dark" />
@@ -92,6 +98,11 @@ design, scalable APIs, and intelligent AI systems.
 **Model Deployment**
 - Model inference via FastAPI
 - AI-powered backend pipelines
+
+---
+
+<!-- ===================== 3D FLOW ANIMATION ===================== -->
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 
 ---
 
@@ -141,5 +152,7 @@ design, scalable APIs, and intelligent AI systems.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:maheshkakulooru08@gmail.com)
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer" />
 
 ⭐ **Always learning. Always building. Always improving.**
