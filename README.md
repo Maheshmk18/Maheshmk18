@@ -1,165 +1,130 @@
 <!-- ===================== HERO HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&text=Mahesh&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Developer&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&text=Mahesh%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%7C%20AI%20%7C%20Backend&descAlignY=70" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Software+Developer;B.Tech+Computer+Science+Student;Machine+Learning+%7C+GenAI+%7C+Backend;Building+Production-Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Applied+AI+%7C+NLP+%7C+RAG;Python+%7C+PyTorch+%7C+FastAPI;Building+Production-Ready+AI+Systems" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-I am a **B.Tech Computer Science Engineering student** passionate about  
-**Artificial Intelligence, Machine Learning, and Software Development**.
+I’m a **B.Tech Computer Science (AI) student** focused on building  
+**applied Machine Learning and AI systems** that work in real-world scenarios.
 
-I focus on building **real-world, scalable, end-to-end systems** that combine  
-**backend engineering, APIs, and intelligent AI models**.
+My strength lies in combining:
+- **Machine Learning & NLP**
+- **Backend engineering**
+- **End-to-end system design**
+
+I enjoy taking ideas **from data → model → API → production-ready systems**.
 
 ---
 
-## 👋 About Me
+## 🎯 What I Do Best
 
-- 🎓 **B.Tech CSE (AI) Student**
-- 💻 Strong in **DSA, Backend & API Development**
-- 🤖 Focused on **AI / ML / Generative AI**
-- 🏗️ Building **enterprise-style AI-powered applications**
-- 🌱 Exploring **RAG, LLM pipelines & Cloud**
-- 🎯 **Goal:** Software / AI Engineer
-- ⚡ Debugging = solving puzzles 🧩
+- Build **ML & NLP models** using PyTorch & Scikit-Learn  
+- Design **Retrieval-Augmented Generation (RAG)** pipelines  
+- Develop **FastAPI-based ML backends**
+- Integrate models into **full-stack applications**
+- Focus on **explainability, metrics, and scalability**
 
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-## 🚀 Tech Stack & Skills
+## 🚀 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 </p>
 
 ---
 
-### 🌐 Frontend Development
+### 🧠 Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit,tensorflow,torch,opencv,transformers&theme=dark" />
 </p>
 
-- Responsive UI
-- Component-based architecture
-- REST API integration
+**Core ML**
+- Supervised & Unsupervised Learning  
+- Feature Engineering & Model Evaluation  
+- Classification, Regression, Anomaly Detection  
+
+**Deep Learning**
+- CNNs & Transfer Learning  
+- Transformer-based models (BERT / DistilBERT)
+
+**NLP & GenAI**
+- Embeddings & Semantic Search  
+- Retrieval-Augmented Generation (RAG)  
+- Prompt Engineering & LLM pipelines  
 
 ---
 
-### 🧠 Backend & APIs
+### 🧩 Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
 </p>
 
-- RESTful APIs
-- Authentication & Authorization
-- Role-based access control
-- AI model integration
+- REST API development  
+- Authentication & RBAC  
+- ML model inference pipelines  
+- Backend support for AI systems  
 
 ---
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 </p>
 
-- Schema design
-- Query optimization
-- Data integrity
+- Relational & NoSQL databases  
+- Schema design & query optimization  
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## 🤖 AI / Machine Learning
-
+### 🔧 Tools & Dev Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit,keras,tensorflow,torch,opencv,transformers&theme=dark" />
-</p>
-
-### Core Expertise
-
-**Machine Learning**
-- Classification, Regression, Clustering
-- Ensemble methods
-
-**Deep Learning**
-- CNNs, RNNs, DNNs
-- Transfer learning
-
-**Natural Language Processing**
-- Text classification
-- Embeddings & transformers
-
-**Computer Vision**
-- Image processing with OpenCV
-
-**Generative AI**
-- LLMs
-- Prompt engineering
-- RAG systems
-
-**Deployment**
-- FastAPI inference
-- AI backend pipelines
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## 🧩 Data Structures & Problem Solving
-
-- Arrays, Strings, Linked Lists
-- Stacks, Queues, Hashing
-- Trees & Graph basics
-- Recursion & Dynamic Programming
-- Time & Space Complexity
-
----
-
-## 🔧 Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-</p>
-
----
-
-## 🛠️ Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,docker&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
 </p>
 
 ---
 
-## 📌 What I Like Building
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-- AI-powered enterprise applications
-- ML & GenAI systems
-- Backend-heavy architectures
-- Full-stack (Frontend + Backend + AI)
+## 🧪 Problem Solving
+
+- Data Structures & Algorithms (DSA)
+- Time & Space Complexity
+- Logical problem solving using Python
 
 ---
 
-## 🌱 Currently Exploring
+## 🧠 What I’m Currently Exploring
 
-- Retrieval-Augmented Generation (RAG)
-- Advanced LLM pipelines
-- Model optimization
-- Scalable backend systems
+- Advanced **RAG architectures**
+- LLM optimization & evaluation
+- Scalable ML backends
+- MLOps fundamentals
+
+---
+
+## 📌 What I Like Building
+
+- Applied ML & AI systems  
+- Backend-heavy architectures  
+- End-to-end AI products  
+- Enterprise-style applications  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/mahesh-k18">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:maheshkakulooru08@gmail.com">
@@ -171,4 +136,4 @@ I focus on building **real-world, scalable, end-to-end systems** that combine
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120" />
 
-⭐ **Always learning. Always building. Always improving.**
+⭐ **Focused on building real, production-ready AI systems.**
