@@ -1,139 +1,121 @@
-<!-- ===================== HERO HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&text=Mahesh%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%7C%20AI%20%7C%20Backend&descAlignY=70" />
+<!-- Header Banner -->
+<img width="100%" src="profile_banner.jpg"/>
+
+<!-- Animated Typing -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%A4%96+AI+%26+ML+Engineer;%F0%9F%93%9A+LLM+Enthusiast+%26+Builder;%E2%9C%8D%EF%B8%8F+Technical+Storyteller;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%9A%80+Building+the+Future+with+AI" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- About Me Section -->
+
+## 💫 About Me
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Hi 👋, I'm Sitam Meur from 🇮🇳</h3>
+      <ul>
+        <li>🤖 <b>AI Engineer</b> at <b>Daily Dose of Data Science</b></li>
+        <li>⚡ Former AI/ML Publisher at <b>Lightning AI</b></li>
+        <li>🌐 GSoC Contributor & Mentor at <b>RUXAILAB</b></li>
+        <li>🌱 Interested in "<b>LLMs-from-scratch</b>", Gen AI & AI infras.</li>
+        <li>🌍 Organizer of <b>Machine Learning Kolkata</b></li>
+        <li>💬 Ask me about AI solutions, technical writing & open source.</li>
+        <li>👯 Always open to meaningful collaborations.</li>
+        <li>📫 Reach me at <a href="mailto:sitammeur@gmail.com"><b>sitammeur@gmail.com</b></a></li>
+        <li>🎮 Free time: Watching ⚽, Comedy, {FRIENDS, SUITS, ..., nth}</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Connect Section -->
+
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Applied+AI+%7C+NLP+%7C+RAG;Python+%7C+PyTorch+%7C+FastAPI;Building+Production-Ready+AI+Systems" />
+  <a href="https://linkedin.com/in/sitammeur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/sitammeur"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@sitammeur"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://instagram.com/sitammeur3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linktr.ee/sitammeur"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="mailto:sitammeur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I’m a **B.Tech Computer Science (AI) student** focused on building  
-**applied Machine Learning and AI systems** that work in real-world scenarios.
-
-My strength lies in combining:
-- **Machine Learning & NLP**
-- **Backend engineering**
-- **End-to-end system design**
-
-I enjoy taking ideas **from data → model → API → production-ready systems**.
-
----
-
-## 🎯 What I Do Best
-
-- Build **ML & NLP models** using PyTorch & Scikit-Learn  
-- Design **Retrieval-Augmented Generation (RAG)** pipelines  
-- Develop **FastAPI-based ML backends**
-- Integrate models into **full-stack applications**
-- Focus on **explainability, metrics, and scalability**
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## 🚀 Tech Stack
-
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
----
+<!-- GitHub Trophies -->
 
-### 🧠 Machine Learning & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit,tensorflow,torch,opencv,transformers&theme=dark" />
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sitammeur&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub Trophies"/>
 </p>
 
-**Core ML**
-- Supervised & Unsupervised Learning  
-- Feature Engineering & Model Evaluation  
-- Classification, Regression, Anomaly Detection  
+<!-- GitHub Stats -->
 
-**Deep Learning**
-- CNNs & Transfer Learning  
-- Transformer-based models (BERT / DistilBERT)
+## 📊 GitHub Stats
 
-**NLP & GenAI**
-- Embeddings & Semantic Search  
-- Retrieval-Augmented Generation (RAG)  
-- Prompt Engineering & LLM pipelines  
-
----
-
-### 🧩 Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
-</p>
-
-- REST API development  
-- Authentication & RBAC  
-- ML model inference pipelines  
-- Backend support for AI systems  
-
----
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-</p>
-
-- Relational & NoSQL databases  
-- Schema design & query optimization  
-
----
-
-### 🔧 Tools & Dev Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-</p>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## 🧪 Problem Solving
-
-- Data Structures & Algorithms (DSA)
-- Time & Space Complexity
-- Logical problem solving using Python
-
----
-
-## 🧠 What I’m Currently Exploring
-
-- Advanced **RAG architectures**
-- LLM optimization & evaluation
-- Scalable ML backends
-- MLOps fundamentals
-
----
-
-## 📌 What I Like Building
-
-- Applied ML & AI systems  
-- Backend-heavy architectures  
-- End-to-end AI products  
-- Enterprise-style applications  
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/mahesh-k18">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:maheshkakulooru08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/sitammeur">
+    <img height="180em" src="https://github-readme-stats-blue-kappa-15.vercel.app/api?username=sitammeur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats-blue-kappa-15.vercel.app/api/top-langs/?username=sitammeur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats-pink-theta.vercel.app?user=sitammeur&theme=tokyonight&hide_border=true&background=0D1117" alt="sitammeur" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120" />
+<!-- Contribution Graph -->
 
-⭐ **Focused on building real, production-ready AI systems.**
+## 🗺️ Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-sooty.vercel.app/graph?username=sitammeur&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-sooty.vercel.app/graph?username=sitammeur&bg_color=ffffff&color=000000&line=00D9FF&point=000000&area=true&hide_border=true" />
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph-sooty.vercel.app/graph?username=sitammeur&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+  </picture>
+</p>
+
+<!-- Newsletter Section -->
+
+## 📰 Daily Dose of Data Science
+
+<p align="center">
+  <a href="https://join.dailydoseofds.com/">
+    <img src="https://img.shields.io/badge/Subscribe%20to%20Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white"/>
+  </a>
+</p>
+
+> _Find insights on LLMs, RAGs, and real-world AI agent applications in our newsletter!_
+
+<!-- Dev Quote -->
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sitammeur&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="sitammeur" />
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
