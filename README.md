@@ -26,54 +26,73 @@
 
 ### 🚀 About Me
 
-```yaml
-name: Mahesh K
-role: AI Engineer & Full Stack Developer
-location: Tirupati, Andhra Pradesh, India
-education: "B.Tech in Computer Science (AI), 2022 - 2026"
-current_focus: "RAG Pipelines, LangChain, LangGraph, Generative AI"
-fun_fact: "Winner - Aya Hackathon 2025 (1st among 200+ teams) 🏆"
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" alt="coding gif" />
+
+I'm a final-year **B.Tech Computer Science (AI)** student and an **AI Engineer & Full Stack Developer** based in Tirupati, India, who loves turning research-grade AI ideas into products people actually use.
+
+My work sits at the intersection of **Generative AI** and **Full Stack Engineering** — I design **RAG pipelines**, build **LLM-powered agents** with LangChain/LangGraph, and ship the **React.js / Node.js / FastAPI** systems that put them in front of real users. Over the past two years I've shipped an Ayurvedic clinic SaaS platform, an AI Virtual Try-On product, an Applicant Tracking System, and a multi-chain DeFi platform that won a national hackathon — and I'm currently interning as an **AI Full Stack Intern at Moksha**, where I build finance agents and healthcare SaaS modules end to end.
+
+I'm big on writing **clean, scalable Python**, following **Agile/SDLC practices**, and constantly experimenting with the newest tools in the GenAI ecosystem — from vector databases to multi-agent orchestration. When I'm not building, I'm solving problems on LeetCode or exploring the next hackathon to compete in.
+
+```python
+class Mahesh:
+    def __init__(self):
+        self.role         = "AI Engineer & Full Stack Developer"
+        self.location     = "Tirupati, Andhra Pradesh, India"
+        self.education    = "B.Tech CSE (AI) @ Vemu Institute of Technology, 2022-2026"
+        self.current_work = "AI Full Stack Intern @ Moksha"
+        self.focus        = ["RAG Pipelines", "LangChain", "LangGraph", "GenAI", "Full Stack Dev"]
+        self.achievement   = "🏆 Winner - Aya Hackathon 2025 (1st / 200+ teams)"
+        self.currently_learning = "Multi-Agent Systems & Advanced Vector Search"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something intelligent together! 🚀")
+
+me = Mahesh()
+me.say_hi()
 ```
 
-- 🔭 Currently working as **AI Full Stack Intern @ Moksha**
-- ⚡ Building **RAG pipelines**, **AI agents**, and **scalable full stack products**
-- 🌱 Deepening expertise in **LangGraph**, **Vector Databases**, and **Generative AI**
-- 🏆 Winner of **Aya Hackathon 2025** — built **ONEDefi**, an AI-powered multi-chain DeFi platform
-- 💬 Ask me about **RAG, LangChain, FastAPI, React.js, or ML pipelines**
-- 📫 Reach me at **maheshkakulooru08@gmail.com**
+<div align="center">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| 🔭 **Building** | RAG pipelines, AI agents & full stack SaaS products | at **Moksha** |
+| 🌱 **Learning** | LangGraph, Vector Databases, Multi-Agent Orchestration | in public |
+| 🏆 **Achieved** | Aya Hackathon 2025 Winner — built **ONEDefi** | 1st / 200+ teams |
+| 💬 **Ask me about** | RAG · LangChain · FastAPI · React.js · ML Pipelines | anytime |
+| 📫 **Reach me** | maheshkakulooru08@gmail.com | let's connect! |
+
+</div>
+
+<br clear="right"/>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
+**Languages & Databases**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20DB-6E56CF?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql&theme=dark" />
+
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20DB-6E56CF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+**Full Stack Development**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,html,css,js&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,colab,postman,docker&theme=dark" />
+
+</div>
 
 ---
 
@@ -117,38 +136,76 @@ fun_fact: "Winner - Aya Hackathon 2025 (1st among 200+ teams) 🏆"
 
 ### 🔥 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+<h4>🤖 AI Enterprise RAG Assistant</h4>
 
-#### 🤖 AI Enterprise RAG Assistant
-🔗 *Live Demo* · Jan 2025
-- Chunked documents into vector embeddings for semantic search
-- Integrated Gemini AI API for context-aware answers
-- Applied Top-K retrieval + re-ranking → **~30% accuracy boost**
+<img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Jan-2025-blueviolet?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Vector%20Search-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+An enterprise-grade Retrieval-Augmented Generation assistant that turns raw documents into instant, context-aware answers.
+
+- 📄 Chunked documents into optimized vector embeddings for fast semantic search
+- 🧠 Integrated **Gemini AI API** for accurate, context-aware responses
+- 🎯 Applied **Top-K retrieval + re-ranking** → boosted response accuracy by **~30%**
+
+<sub>🔗 <b>Live Demo</b> available</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+<h4>🛡️ IoT Malware Classification</h4>
 
-#### 🛡️ IoT Malware Classification
-🔗 *Live Demo* · Nov 2025
-- Hybrid CNN + Ensemble ML pipeline → **97.27% accuracy** (LightGBM)
-- Trained 5 models on **17,219 images**
-- Deployed real-time Streamlit app (predictions **< 1 sec**)
+<img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Nov-2025-blueviolet?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-success?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+A hybrid deep learning + ensemble ML system that detects malicious IoT firmware in real time.
+
+- 🧬 Built a hybrid **CNN + Ensemble ML** pipeline achieving **97.27% accuracy** with LightGBM
+- ⚙️ Trained **5 models** (CNN, Random Forest, LightGBM, XGBoost, AdaBoost) on **17,219 images**
+- ⚡ Deployed a **real-time Streamlit app** predicting Benign vs Malware in **under 1 second**
+
+<sub>🔗 <b>Live Demo</b> available</sub>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+<sub>💡 More projects and case studies are pinned on my profile — check the <b>Pinned</b> section above!</sub>
+</div>
+
 ---
 
 ### 🏆 Achievements & Certifications
 
-- 🥇 **Winner — Aya Hackathon 2025** (1st among 200+ teams) — Built **ONEDefi**, an AI-powered multi-chain DeFi platform
-- 📜 Machine Learning with Python: Foundations — *LinkedIn Learning*
-- 📜 Advanced RAG Applications with Vector Databases — *LinkedIn Learning*
-- 📜 Python — *HackerRank*
-- 📜 Java Full Stack — *Digital Skills Readiness Program*
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="100%">
+
+### 🥇 Aya Hackathon 2025 — **Winner**
+**1st place among 200+ teams**
+
+Built **ONEDefi** — an AI-powered multi-chain DeFi platform that automates cross-chain operations end to end.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+| 📜 Certification | 🏢 Issued By |
+|:---|:---:|
+| Advanced RAG Applications with Vector Databases | LinkedIn Learning |
+| Machine Learning with Python: Foundations | LinkedIn Learning |
+| Python (Certified) | HackerRank |
+| Java Full Stack | Digital Skills Readiness Program |
+
+</div>
 
 ---
 
