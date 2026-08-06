@@ -21,17 +21,11 @@ I'm a final-year **B.Tech Computer Science (AI)** student based in Tirupati, Ind
 
 In the last two years I've helped ship an Ayurvedic clinic SaaS platform, an AI Virtual Try-On product, a full Applicant Tracking System, and a multi-chain DeFi platform that won a national hackathon. I'm currently an **AI Full Stack Intern at Moksha**, building finance agents and healthcare SaaS modules end to end. I write clean, scalable Python, follow Agile/SDLC practices, and I'm always experimenting with the newest tools in the GenAI ecosystem — from vector databases to multi-agent orchestration. Outside of work, I solve problems on LeetCode and look out for the next hackathon to compete in.
 
-<div align="center">
-
-| | |
-|---|---|
-| 🔭 **Currently Building** | RAG pipelines, AI agents & full stack SaaS products at **Moksha** |
-| 🌱 **Currently Learning** | LangGraph, Vector Databases, Multi-Agent Orchestration |
-| 🏆 **Proudest Achievement** | Aya Hackathon 2025 Winner — built **ONEDefi** (1st / 200+ teams) |
-| 💬 **Ask Me About** | RAG · LangChain · FastAPI · React.js · ML Pipelines |
-| 📫 **Reach Me** | maheshkakulooru08@gmail.com |
-
-</div>
+- **Currently building:** RAG pipelines, AI agents & full stack SaaS products at Moksha
+- **Currently learning:** LangGraph, Vector Databases, Multi-Agent Orchestration
+- **Proudest achievement:** Aya Hackathon 2025 Winner — built ONEDefi (1st among 200+ teams)
+- **Ask me about:** RAG · LangChain · FastAPI · React.js · ML Pipelines
+- **Reach me:** [maheshkakulooru08@gmail.com](mailto:maheshkakulooru08@gmail.com)
 
 <br/>
 
@@ -41,24 +35,42 @@ In the last two years I've helped ship an Ayurvedic clinic SaaS platform, an AI 
 
 **Languages & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql&theme=dark" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **AI / Machine Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-6E56CF?style=flat-square&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-6E56CF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 **Full Stack Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,html,css,js&theme=dark" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,colab,postman,docker&theme=dark" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
@@ -149,22 +161,31 @@ A hybrid deep learning + ensemble ML system that detects malicious IoT firmware 
 
 ## Achievements & Certifications
 
+<table width="100%">
+<tr>
+<td align="center" width="100%">
+
+### 🥇 Aya Hackathon 2025 — Winner
+**1st place among 200+ teams**
+
+Built **ONEDefi** — an AI-powered multi-chain DeFi platform automating cross-chain operations
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-**🥇 Aya Hackathon 2025 — Winner**
-<br/>
-1st place among 200+ teams — built **ONEDefi**, an AI-powered multi-chain DeFi platform automating cross-chain operations
+| Certification | Issued By |
+|:---|:---:|
+| 🎓 Advanced RAG Applications with Vector Databases | LinkedIn Learning |
+| 🎓 Machine Learning with Python: Foundations | LinkedIn Learning |
+| 🎓 Python (Certified) | HackerRank |
+| 🎓 Java Full Stack | Digital Skills Readiness Program |
 
 </div>
-
-<br/>
-
-| Certification | Issued By |
-|---|---|
-| Advanced RAG Applications with Vector Databases | LinkedIn Learning |
-| Machine Learning with Python: Foundations | LinkedIn Learning |
-| Python (Certified) | HackerRank |
-| Java Full Stack | Digital Skills Readiness Program |
 
 <br/>
 
@@ -185,7 +206,7 @@ A hybrid deep learning + ensemble ML system that detects malicious IoT firmware 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Maheshmk18&color=blueviolet&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/badge/Profile%20Views-400-blueviolet?style=flat-square"/>
 
 <br/><br/>
 
